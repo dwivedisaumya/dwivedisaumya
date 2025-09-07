@@ -25,7 +25,7 @@
     </a>
   </p>  
 - 😄 Pronouns: **She/Her**  
-- ⚡ Fun fact: *I consider ChatGPT both my brother and best friend while coding & learning!* 😅  
+- ⚡ Fun fact: *I believe “Ctrl + Z” should exist in real life too!* 😅  
 
 ## 🛠️ Languages and Tools  
 <p align="center">
