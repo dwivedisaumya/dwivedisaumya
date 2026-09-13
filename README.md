@@ -7,7 +7,7 @@
 </p>
 
 ## 🚀 About Me  
-- 🔭 Working on: **Python Projects & Resume Parser Tool**  
+- 🔭 Working on: **DSA & Projects**  
 - 🌱 Learning: **C++ (OOP), Web Dev, AI/ML**  
 - 👯 Looking to collaborate on: **Open Source Projects**  
 - 🤔 Need help with: **Advanced Cybersecurity & AI concepts**  
